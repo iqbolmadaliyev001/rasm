@@ -1,0 +1,6 @@
+{
+  "name": "Project Apex - UE4.27 Battle Royale Dev Companion",
+  "description": "Project Apex (PC & Android) Unreal Engine 4.27 Battle Royale ishlab chiqish platformasi, diagnostika va bosqichma-bosqich boshqaruv paneli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
